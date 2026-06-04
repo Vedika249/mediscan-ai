@@ -19,7 +19,6 @@ and **spaCy NLP**.
 > Run locally using steps below ⬇️
 
 ---
-
 ## 📸 Features
 
 ### 📄 Tab 1 — Medical Report Analyzer
