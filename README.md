@@ -78,7 +78,7 @@ mediscan-ai/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mediscan-ai.git
+git clone https://github.com/Vedika249/mediscan-ai.git
 cd mediscan-ai
 ```
 
